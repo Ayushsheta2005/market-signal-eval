@@ -1,0 +1,9 @@
+{
+  "skipped": {
+    "AAPL": "ValueError: 39 samples cannot support 6 folds with min_train=500",
+    "AMZN": "ValueError: 39 samples cannot support 6 folds with min_train=500",
+    "GOOGL": "ValueError: 39 samples cannot support 6 folds with min_train=500",
+    "META": "ValueError: 39 samples cannot support 6 folds with min_train=500",
+    "NFLX": "ValueError: 39 samples cannot support 6 folds with min_train=500"
+  }
+}
